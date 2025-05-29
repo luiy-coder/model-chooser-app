@@ -26,7 +26,7 @@ git clone https://github.com/luiy-coder/model-chooser-app.git
 cd model-chooser-app
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 ---
 
 ## 🛠️ Tech Stack
