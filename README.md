@@ -41,7 +41,18 @@ streamlit run app.py
 ## 🤝 Connect with Me
 
 - 💼 [LinkedIn – Jeslin Lois](https://www.linkedin.com/in/jeslin-lois/)
-- ✍️ [Medium – @jeslin-lois](https://medium.com/@jeslinloisss)
+---
+
+---
+
+## 🧠 Related Blog Posts
+
+Here’s a deeper dive into the thoughts and learning behind this project:
+
+1. ✍️ [How to Choose the Right Evaluation Metric – A Simple Guide](https://medium.com/@jeslinloisss/how-to-choose-the-right-evaluation-metric-for-a-model-a-simple-guide-315817d990fe)
+2. 🧪 [How to choose the Right Machine Learning model — A simple, honest guide](https://medium.com/@jeslinloisss/how-to-choose-the-right-machine-learning-model-a-simple-honest-guide-3ff603f621fa)
+
+✨ More coming soon — follow me on [Medium](https://medium.com/@jeslinloisss) for updates!
 
 ---
 
