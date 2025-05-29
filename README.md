@@ -15,15 +15,7 @@ An interactive Streamlit app that helps you choose the best machine learning mod
 
 ## 📸 Demo
 
-![App Screenshot](screenshot.png)
-
----
-
-## 📦 Technologies Used
-
-- Python
-- Streamlit
-- Scikit-learn (model references)
+![App Screenshot](app_screenshot.JPG)
 
 ---
 
@@ -34,3 +26,25 @@ git clone https://github.com/luiy-coder/model-chooser-app.git
 cd model-chooser-app
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Streamlit
+- Git + GitHub
+- VSCode
+
+---
+
+## 🤝 Connect with Me
+
+- 💼 [LinkedIn – Jeslin Lois](https://www.linkedin.com/in/jeslin-lois/)
+- ✍️ [Medium – @jeslin-lois](https://medium.com/@jeslinloisss)
+
+---
+
+## 🙌 Special Thanks
+
+To everyone who ever paused at “Which model should I use?” — this tool is for you 💛  
